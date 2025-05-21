@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: rgb(78, 214, 180);
+}
+
+.name {
+    width: 20rem;
+    height: 4rem;
+    background-color: #fd6485;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    color: white;
+    margin-left: 1rem;
+    font-size: 15px;
+}
+
+.img{
+height: 8rem;
+width: 10rem;
+padding-right: 20px;
+margin-left: 5rem;
+margin-top: 1rem;
+margin-bottom:  1rem;
+}
